@@ -2,12 +2,6 @@
 
 ### Climate Analytics | Environmental Data Analysis | Python | Statistical Modeling
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](https://jupyter.org/)
-[![Pandas](https://img.shields.io/badge/Data-Pandas-150458?logo=pandas)](https://pandas.pydata.org/)
-[![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-F7931E?logo=scikitlearn)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ## Overview
 
 The **Delhi Weather & Air Quality Insights Dashboard and Report – 2025** is a data analytics project focused on examining the relationship between weather conditions and air pollution patterns in Delhi.
@@ -38,7 +32,7 @@ This project addresses the challenge through systematic data preprocessing, expl
 
 | Category | Technologies |
 |---|---|
-| Programming Language | Python 3.x |
+| Programming Language | Python 3.10 |
 | Development Environment | Google Colab, Jupyter Notebook |
 | Data Manipulation | Pandas, NumPy |
 | Data Visualization | Matplotlib, Seaborn |
@@ -131,7 +125,7 @@ Delhi-Weather-Air-quality-Insights-Dashboard-and-Report---2025/
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10
 - Google Colab or Jupyter Notebook
 - Basic knowledge of Python and data analytics
 
